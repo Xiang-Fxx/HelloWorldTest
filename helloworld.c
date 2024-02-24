@@ -2,7 +2,7 @@
  * @Author: Xiang-Fxx 2775634116@qq.com
  * @Date: 2024-02-14 19:10:58
  * @LastEditors: Xiang-Fxx 2775634116@qq.com
- * @LastEditTime: 2024-02-14 19:15:40
+ * @LastEditTime: 2024-02-24 14:13:47
  * @FilePath: \HelloWorldTest\helloworld.c
  * @Description: 
  * 
@@ -16,6 +16,8 @@
 
 void main(void)
 {
+
+    TestInit();
 
     printf("hello world\n");
 
